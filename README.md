@@ -1,4 +1,5 @@
-# chrome-ext-sample
-Sample chrome extension that replaces all links with given text
+# auto-class 
 
-Made to learn about the way extensions interact with the DOM as practice for a bigger project.
+Special thanks to Dvid Silva, this repo was forked from his reposity: chrome-ext-sample. 
+
+It is being used to learn about the way extensions interact with the DOM as practice for a bigger project...
